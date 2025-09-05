@@ -8,106 +8,99 @@ cv:
     - network: LinkedIn
       username: ArashAdrangi
   sections:
-    welcome_to_RenderCV!:
-      - '[RenderCV](https://rendercv.com) is a Typst-based CV framework designed for academics and engineers, with Markdown syntax support.'
-      - Each section title is arbitrary. Each section contains a list of entries, and there are 7 different entry types to choose from.
     education:
-      - institution: Stanford University
+      - institution: Georgia Institute of Technology
         area: Computer Science
-        degree: PhD
+        degree: Masters
         date:
         start_date: 2023-09
         end_date: present
-        location: Stanford, CA, USA
+        location:
         summary:
+        coursework:
+          - Graduate Operating Systems
+          - Computer Vision
+          - AI for Robotics
         highlights:
-          - Working on the optimization of autonomous vehicles in urban environments
-      - institution: Boğaziçi University
-        area: Computer Engineering
+      - institution: Cal Poly San Luis Obispo
+        area: Aerospace Engineering
         degree: BS
         date:
-        start_date: 2018-09
-        end_date: 2022-06
-        location: Istanbul, Türkiye
-        summary:
-        highlights:
-          - 'GPA: 3.9/4.0, ranked 1st out of 100 students'
-          - 'Awards: Best Senior Project, High Honor'
-    experience:
-      - company: Company C
-        position: Summer Intern
-        date:
-        start_date: 2024-06
-        end_date: 2024-09
-        location: Livingston, LA, USA
-        summary:
-        highlights:
-          - Developed deep learning models for the detection of gravitational waves in LIGO data
-          - Published [3 peer-reviewed research papers](https://example.com) about the project and results
-      - company: Company B
-        position: Summer Intern
-        date:
-        start_date: 2023-06
-        end_date: 2023-09
-        location: Ankara, Türkiye
-        summary:
-        highlights:
-          - Optimized the production line by 15% by implementing a new scheduling algorithm
-      - company: Company A
-        position: Summer Intern
-        date:
-        start_date: 2022-06
-        end_date: 2022-09
-        location: Istanbul, Türkiye
-        summary:
-        highlights:
-          - Designed an inventory management web application for a warehouse
-    projects:
-      - name: '[Example Project](https://example.com)'
-        date:
-        start_date: 2024-05
-        end_date: present
+        start_date: 2015-06
+        end_date: 2019-06
         location:
-        summary: A web application for writing essays
+        summary:
         highlights:
-          - Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
-          - The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-      - name: '[Teaching on Udemy](https://example.com)'
-        date: Fall 2023
+    experience:
+      - company: Northrop Grumman
+        position: Senior Software Engineer
+        date:
+        start_date: 2023-11
+        end_date: present
+        location: Sunnyvale, CA
+        summary:
+        highlights:
+          - Redesigned a system modeling codebase from the ground up. Improved software performance and data accessibility for use in test campaigns costing $250,000 per week.  
+          - Lead the development of a test data processing system to automate hundreds of hours of manual processing. Optimized parallel processing, task queuing, and detailed logging. 
+          - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing to ensure data processing reliability, and supported the system with continuous improvement efforts.
+          - Spearheaded a refactoring and front-end development effort for legacy data processing code. Significantly impacted time to process new test data from hours into seconds.
+          - Overhauled queries for a .NET application with an SQL Server and Oracle Database backend. Fixed critical result mismatch issues for production and operations teams spanning 200 workers. Managed the codebase configuration and distributed work among engineering peers.
+          - Developed proposals for software projects spanning process improvement and R&D.
+      - company: Northrop Grumman
+        position: Systems Integration and Test Engineer
+        date:
+        start_date: 2022-05
+        end_date: 2023-11
+        location: Sunnyvale, CA
+        summary:
+        highlights:
+          - Lead Test Engineer for conducting Factory Acceptance Testing on rotating machinery. Guided junior engineers through test execution and provided regular updates to customers.
+          - Developed real-time filtering and tuning solutions for PID control systems.
+          - Developed automation scripts for sensor data processing and visualization.
+      - company: Northrop Grumman
+        position: Avionics Engineer
+        date:
+        start_date: 2020-09
+        end_date: 2022-05
+        location: San Diego, CA
+        summary:
+        highlights:
+          - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Conducted regular status meetings with Air Force customers to discuss program execution. 
+          - Performed software fault analysis and debugging in flight operation systems.
+    projects:
+      - name:
+        date:
         start_date:
         end_date:
         location:
         summary:
         highlights:
-          - Instructed the "Statics" course on Udemy (60,000+ students, 200,000+ hours watched)
+      - name:
+        date:
+        start_date:
+        end_date:
+        location:
+        summary:
+        highlights:
     skills:
       - label: Programming
-        details: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
-      - label: Mathematics
-        details: Good understanding of differential equations, calculus, and linear algebra
-      - label: Languages
-        details: 'English (fluent, TOEFL: 118/120), Turkish (native)'
+        details: Python, C/C++, TypeScript, SQL, HTML/CSS, Bash
+      - label: Tools/Systems
+        details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
+      - label: Relevant Areas
+        details: Computer Systems, Machine Learning, Computer Vision, Signal Processing, Robotics
+      - label: Databases
+        details: SQL Server, Oracle, MySQL, SQLite
     publications:
-      - title: 3D Finite Element Analysis of No-Insulation Coils
+      - title:
         authors:
-          - Frodo Baggins
-          - '***John Doe***'
-          - Samwise Gamgee
-        doi: 10.1109/TASC.2023.3340648
+        doi:
         url:
         journal:
-        date: 2004-01
+        date:
     extracurricular_activities:
-      - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
     numbered_entries:
-      - number: This is a numbered entry.
-      - number: This is another numbered entry.
-      - number: This is the third numbered entry.
     reversed_numbered_entries:
-      - reversed_number: This is a reversed numbered entry.
-      - reversed_number: This is another reversed numbered entry.
-      - reversed_number: This is the third reversed numbered entry.
 design:
   theme: classic
   page:
