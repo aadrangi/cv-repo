@@ -11,7 +11,7 @@ cv:
     education:
       - institution: Georgia Institute of Technology
         area: Computer Science
-        degree: Masters
+        degree: MS
         date:
         start_date: 2023-09
         end_date: present
@@ -67,21 +67,6 @@ cv:
         highlights:
           - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Conducted regular status meetings with Air Force customers to discuss program execution. 
           - Performed software fault analysis and debugging in flight operation systems.
-    projects:
-      - name:
-        date:
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights:
-      - name:
-        date:
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights:
     skills:
       - label: Programming
         details: Python, C/C++, TypeScript, SQL, HTML/CSS, Bash
@@ -91,16 +76,6 @@ cv:
         details: Computer Systems, Machine Learning, Computer Vision, Signal Processing, Robotics
       - label: Databases
         details: SQL Server, Oracle, MySQL, SQLite
-    publications:
-      - title:
-        authors:
-        doi:
-        url:
-        journal:
-        date:
-    extracurricular_activities:
-    numbered_entries:
-    reversed_numbered_entries:
 design:
   theme: classic
   page:
