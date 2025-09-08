@@ -19,7 +19,11 @@
 #let connections-list = (
 ((* for connection in cv.connections *))
   [((*- if connection["url"] -*))
+    ((*- if "linkedin.com" in connection["url"]|lower -*))
+  #box(original-link("https://linkedin.com/in/<<connection["placeholder"]|lower|replace(" ", "-")|escape_typst_characters>>-10a39b11a")[
+    ((*- else -*))
   #box(original-link("<<connection["url"]>>")[
+    ((*- endif -*))
   ((*- endif -*))
   ((*- if design.header.use_icons_for_connections -*))
     #fa-icon("<<connection["typst_icon"]>>", size: 0.9em) #h(0.05cm)
