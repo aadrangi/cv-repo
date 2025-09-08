@@ -78,7 +78,7 @@ cv:
 design:
   theme: engineeringresumes
   text:
-    font_size: 11pt
+    font_size: 10.7pt
     leading: 0.6em
     alignment: justified
     date_and_location_column_alignment: right
