@@ -1,0 +1,122 @@
+cv:
+  name: Arash Adrangi
+  location: Fremont, CA
+  email: arash1adrangi@gmail.com
+  phone: +1-702-540-2204
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: Arash Adrangi
+  sections:
+    education:
+      - institution: Georgia Institute of Technology
+        area: Computer Science
+        degree: MS
+        date:
+        start_date: 2023-09
+        end_date: present
+        location:
+        summary:
+        highlights:
+          - "Graduate Operating Systems: Concurrency, distributed systems, resource management."
+          - "Computer Vision: Image processing, feature detection, multiview geometry, classification."
+          - "AI for Robotics: Localization filters, SLAM and path planning algorithms."
+      - institution: Cal Poly San Luis Obispo
+        area: Aerospace Engineering
+        degree: BS
+        date:
+        start_date: 2015-06
+        end_date: 2019-06
+        location:
+        summary:
+        highlights:
+    experience:
+      - company: Northrop Grumman
+        position: Senior Software Engineer
+        date:
+        start_date: 2023-11
+        end_date: present
+        location: Sunnyvale, CA
+        summary:
+        highlights:
+          - Redesigned a system modeling codebase from the ground up. Improved software performance and data accessibility for use in test campaigns costing $250,000 per week.  
+          - Lead the development of a test data processing system to automate hundreds of hours of manual processing. Optimized parallel processing, task queuing, and detailed logging. 
+          - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing to ensure data processing reliability, and supported the system with continuous improvement efforts.
+          - Spearheaded a refactoring and front-end development effort for legacy data processing code. Significantly impacted time to process new test data from hours into seconds.
+          - Overhauled queries for a .NET application with an SQL Server and Oracle Database backend. Fixed critical result mismatch issues for production and operations teams spanning 200 workers. Managed the codebase configuration and distributed work among engineering peers.
+          - Developed proposals for software projects spanning process improvement and R&D.
+      - company: Northrop Grumman
+        position: Systems Integration and Test Engineer
+        date:
+        start_date: 2022-05
+        end_date: 2023-11
+        location: Sunnyvale, CA
+        summary:
+        highlights:
+          - Lead Test Engineer for conducting Factory Acceptance Testing on rotating machinery. Guided junior engineers through test execution and provided regular updates to customers.
+          - Developed real-time filtering and tuning solutions for PID control systems.
+          - Developed automation scripts for sensor data processing and visualization.
+      - company: Northrop Grumman
+        position: Avionics Engineer
+        date:
+        start_date: 2020-09
+        end_date: 2022-05
+        location: San Diego, CA
+        summary:
+        highlights:
+          - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Conducted regular status meetings with Air Force customers to discuss program execution. 
+          - Performed software fault analysis and debugging in flight operation systems.
+    skills:
+      - label: Programming
+        details: Python, C/C++, TypeScript, SQL, HTML/CSS, Bash
+      - label: Tools/Systems
+        details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
+      - label: Relevant Areas
+        details: Computer Systems, Machine Learning, Computer Vision, Signal Processing, Robotics
+      - label: Databases
+        details: SQL Server, Oracle, MySQL, SQLite
+design:
+  theme: engineeringclassic
+
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-09-05'
+  render_command:
+  bold_keywords: []
