@@ -39,7 +39,7 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Redesigned a system modeling codebase from the ground up. Improved software performance and data accessibility for use in test campaigns costing $250,000 per week.  
+          - Redesigned a system modeling codebase from the ground up. Improved modularity, reliability and data accessibility. Deployed software for use in test campaigns costing $250,000 per week.  
           - Lead the development of a test data processing system to automate hundreds of hours of manual processing. Optimized parallel processing, task queuing, and detailed logging. 
           - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing to ensure data processing reliability, and supported the system with continuous improvement efforts.
           - Spearheaded a refactoring and front-end development effort for legacy data processing code. Significantly impacted time to process new test data from hours into seconds.
