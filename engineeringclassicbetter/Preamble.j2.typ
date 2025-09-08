@@ -281,25 +281,7 @@
   original-link(url, body)
 }
 
-// Last updated date text:
-#if design-page-show-last-updated-date {
-  let dx
-  if design-section-titles-type == "moderncv" {
-    dx = 0cm
-  } else {
-    dx = -design-entries-left-and-right-margin
-  }
-  place(
-    top + right,
-    dy: -design-page-top-margin / 2,
-    dx: dx,
-    text(
-      [_#locale-catalog-last-updated-date-style _],
-      fill: design-colors-last-updated-date-and-page-numbering,
-      size: 0.9em,
-    ),
-  )
-}
+
 
 #let connections(connections-list) = context {
   set text(fill: design-colors-connections, font: design-header-connections-font-family)
