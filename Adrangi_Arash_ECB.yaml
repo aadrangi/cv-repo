@@ -39,12 +39,12 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Redesigned a modeling and simulation codebase from the ground up. Improved modularity, reliability and data accessibility. Deployed software for use in test campaigns costing $250,000 per week.  
-          - Lead the development of a test data processing system to automate hundreds of hours of manual processing while maintaining 24/7 uptime. Optimized parallel processing, task queuing, and detailed logging. 
-          - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing to ensure data processing reliability. Supported the system with continuous improvement, peer review, and repository management efforts.
-          - Spearheaded a front-end development effort for a data processing and structural simulation codebase. Refactored the codebase and slashed required time to process new test data from hours into seconds.
-          - Overhauled SQL queries for a .NET application with an SQL Server and Oracle Database backend. Fixed critical result mismatch issues for production and operations teams spanning 200 workers. Managed the codebase configuration and distributed work among engineering peers.
-          - Budgeted proposals for software projects totalling $300,000, spanning process improvement and R&D.
+          - Redesigned a modeling and simulation codebase from the ground up, developing large-scale software architecture that improved modularity, reliability and data accessibility. Deployed verification software for use in test campaigns costing $250,000 per week.
+          - Lead the development of an automated test data processing system to eliminate hundreds of hours of manual processing while maintaining 24/7 uptime. Designed efficient automation tools with optimized parallel processing, task queuing, and comprehensive logging for streamlined testing processes.
+          - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing and verification strategies to ensure data processing reliability and highest level of quality.
+          - Spearheaded a front-end development effort for a data processing and structural simulation codebase. Refactored the codebase using efficient automation techniques, reducing required time to process new test data from hours to seconds.
+          - Overhauled SQL queries for a .NET application with SQL Server and Oracle Database backend. Performed root cause analysis and provided effective fixes for critical result mismatch issues affecting production teams spanning 200 workers. Managed codebase configuration and collaborative development efforts.
+          - Collaborated with multiple development and operations teams to drive continuous improvement. Budgeted proposals for software automation projects totaling $300,000, spanning process improvement and R&D.
       - company: Northrop Grumman
         position: Systems Integration and Test Engineer
         date:
@@ -53,9 +53,8 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Lead Test Engineer for conducting Factory Acceptance Testing on rotating machinery. Guided junior engineers through test execution and provided regular updates to customers.
-          - Developed real-time filtering and tuning solutions for PID control systems.
-          - Developed automation scripts for sensor data processing and visualization.
+          - Lead Responsible Engineer for actuator life extension qualification testing, involving stress testing of mechanical and embedded systems. Lead comprehensive verification efforts through procurement, fixture assembly, test execution, and data analysis. Conducted regular status meetings with Air Force customers to discuss program execution
+          - Performed software fault analysis and debugging in flight operation systems, analyzing complex issues down to the code level with strong problem-solving skills
       - company: Northrop Grumman
         position: Avionics Engineer
         date:
