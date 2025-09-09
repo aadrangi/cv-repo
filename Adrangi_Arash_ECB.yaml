@@ -18,9 +18,6 @@ cv:
         location:
         summary:
         highlights:
-          - "Graduate Operating Systems: Concurrency, distributed systems, resource management."
-          - "Computer Vision: Image processing, feature detection, multiview geometry, classification."
-          - "AI for Robotics: Localization filters, SLAM and path planning algorithms."
       - institution: Cal Poly San Luis Obispo
         area: Aerospace Engineering
         degree: BS
@@ -42,9 +39,9 @@ cv:
           - Redesigned a modeling and simulation codebase from the ground up, serving large-scale hardware-in-the-loop testing with improved modularity, reliability and data accessibility. Deployed verification software for use in test campaigns costing $250,000 per week.
           - Lead the development of an automated test data processing system to eliminate hundreds of hours of manual processing while maintaining 24/7 uptime. Designed efficient automation tools with optimized parallel processing, task queuing, and streamlined testing processes.
           - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing and verification strategies to ensure data processing reliability and highest level of quality.
-          - Spearheaded a front-end development effort for a data processing and structural simulation codebase. Refactored the codebase using efficient automation techniques, reducing required time to process new test data from hours to seconds.
+          - Spearheaded a front-end development effort for a data processing and structural simulation codebase. Refactored the codebase and implemented efficient automation techniques, reducing required time to process new test data from hours to seconds.
           - Overhauled SQL queries for a .NET application with SQL Server and Oracle Database backend. Performed root cause analysis and provided effective fixes for critical result mismatch issues affecting production teams spanning 200 workers. Managed codebase configuration and collaborative development efforts.
-          - Collaborated with multiple development and operations teams to drive continuous improvement. Budgeted proposals for software automation projects totaling $300,000, spanning process improvement and R&D.
+          - Collaborated with multiple development and operations teams to drive quality improvements. Budgeted proposals for software automation projects totaling $300,000, spanning process improvement and R&D.
       - company: Northrop Grumman
         position: Systems Integration and Test Engineer
         date:
@@ -53,8 +50,9 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Lead Responsible Engineer for actuator life extension qualification testing, involving stress testing of mechanical and embedded systems. Lead comprehensive verification efforts through procurement, fixture assembly, test execution, and data analysis. Conducted regular status meetings with Air Force customers to discuss program execution
-          - Performed software fault analysis and debugging in flight operation systems, analyzing complex issues down to the code level with strong problem-solving skills
+          - Lead Test Engineer for conducting Factory Acceptance Testing on rotating machinery. Developed test strategies and guided junior engineers through test execution.
+          - Created automation scripts for sensor data processing and visualization, ensuring seamless integration and compatibility.
+          - Developed real-time filtering and performance optimization solutions for PID control systems.
       - company: Northrop Grumman
         position: Avionics Engineer
         date:
