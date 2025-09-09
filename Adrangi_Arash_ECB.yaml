@@ -18,7 +18,7 @@ cv:
         location:
         summary:
         highlights:
-          - "Graduate Operating Systems: Concurrency, distributed systems, resource management."
+          - "Graduate Operating Systems: Concurrency, multi-threading, resource management."
           - "Computer Vision: Image processing, feature detection, multiview geometry, classification."
           - "AI for Robotics: Localization filters, SLAM and path planning algorithms."
       - institution: Cal Poly San Luis Obispo
