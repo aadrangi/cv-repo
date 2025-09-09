@@ -39,8 +39,8 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Redesigned a modeling and simulation codebase from the ground up, developing large-scale software architecture that improved modularity, reliability and data accessibility. Deployed verification software for use in test campaigns costing $250,000 per week.
-          - Lead the development of an automated test data processing system to eliminate hundreds of hours of manual processing while maintaining 24/7 uptime. Designed efficient automation tools with optimized parallel processing, task queuing, and comprehensive logging for streamlined testing processes.
+          - Redesigned a modeling and simulation codebase from the ground up, serving large-scale hardware-in-the-loop testing with improved modularity, reliability and data accessibility. Deployed verification software for use in test campaigns costing $250,000 per week.
+          - Lead the development of an automated test data processing system to eliminate hundreds of hours of manual processing while maintaining 24/7 uptime. Designed efficient automation tools with optimized parallel processing, task queuing, and streamlined testing processes.
           - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing and verification strategies to ensure data processing reliability and highest level of quality.
           - Spearheaded a front-end development effort for a data processing and structural simulation codebase. Refactored the codebase using efficient automation techniques, reducing required time to process new test data from hours to seconds.
           - Overhauled SQL queries for a .NET application with SQL Server and Oracle Database backend. Performed root cause analysis and provided effective fixes for critical result mismatch issues affecting production teams spanning 200 workers. Managed codebase configuration and collaborative development efforts.
