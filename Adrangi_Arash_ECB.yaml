@@ -72,7 +72,7 @@ cv:
       - label: Tools/Systems
         details: Git, Docker, Linux, Windows, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
       - label: Relevant Areas
-        details: Computer Systems, Machine Learning, Computer Vision, Signal Processing, Robotics
+        details: Computer Systems, Machine Learning, Object Oriented Programming, Computer Vision
       - label: Databases
         details: SQL Server, Oracle, MySQL, SQLite
 design:
