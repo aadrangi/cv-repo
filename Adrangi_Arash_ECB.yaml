@@ -18,9 +18,6 @@ cv:
         location:
         summary:
         highlights:
-          - "Graduate Operating Systems: Concurrency, distributed systems, resource management."
-          - "Computer Vision: Image processing, feature detection, multiview geometry, classification."
-          - "AI for Robotics: Localization filters, SLAM and path planning algorithms."
       - institution: Cal Poly San Luis Obispo
         area: Aerospace Engineering
         degree: BS
@@ -39,7 +36,7 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Redesigned a modeling and simulation codebase from the ground up, improving modularity, reliability, and test coverage requirements. Deployed software for use in verification and validation test campaigns costing $250,000 per week.
+          - Fully redesigned a modeling/simulation codebase, improving reliability, CI/CD pipelines, and test coverage requirements. Deployed software in verification and validation test campaigns costing $250,000 per week.
           - Led the development of a software test automation and data processing system, eliminating hundreds of hours of manual effort while maintaining 24/7 reliability. Optimized parallel processing, CI/CD pipeline integration, workflow enhancement, and detailed logging.
           - Developed a database ETL pipeline and streamlined integration of test data into systems simulation code. Implemented unit testing, validation protocols, and archival of results to ensure reliable test execution. Supported the system with continuous improvement, peer review, and repository management.
           - Spearheaded a front-end development and refactoring effort for a data processing and structural simulation codebase. Reduced required time to process new test data from hours into seconds, accelerating test plan execution and analysis cycles.
@@ -53,9 +50,9 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Lead Test Engineer for conducting Factory Acceptance Testing on rotating machinery. Guided junior engineers through test execution and provided regular updates to customers.
-          - Developed real-time filtering and tuning solutions for PID control systems.
-          - Developed automation scripts for sensor data processing and visualization.
+          - Lead Test Engineer for machinery Factory Acceptance Testing. Guided junior engineers through test protocol execution, issue logging, and debugging while providing regular updates to customers.
+          - Developed real-time filtering and tuning solutions for PID control systems, contributing to reliability assessment and troubleshooting methodologies.
+          - Developed automation scripts in Python and Matlab for sensor data processing and visualization, enabling faster test data analysis, non-conformance detection, and root cause investigation.
       - company: Northrop Grumman
         position: Avionics Engineer
         date:
@@ -64,8 +61,8 @@ cv:
         location: San Diego, CA
         summary:
         highlights:
-          - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Conducted regular status meetings with Air Force customers to discuss program execution. 
-          - Performed software fault analysis and debugging in flight operation systems.
+          - Lead Responsible Engineer for actuator life-extension qualification testing, overseeing procurement, fixture assembly, verification test plan development and execution, and test data review. Conducted regular status meetings with Air Force customers to review system reliability metrics.
+          - Performed software fault analysis, debugging, and defect resolution in flight operation systems, demonstrating a systematic troubleshooting mindset across embedded and electromechanical systems.
     skills:
       - label: Programming
         details: Python, C/C++, TypeScript, SQL, HTML/CSS, Bash
