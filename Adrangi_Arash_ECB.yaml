@@ -61,11 +61,11 @@ cv:
         location: San Diego, CA
         summary:
         highlights:
-          - Lead Responsible Engineer for actuator life-extension qualification testing, overseeing procurement, fixture assembly, verification test plan development and execution, and test data review. Conducted regular status meetings with Air Force customers to review system reliability metrics.
+          - Lead Responsible Engineer for actuator life-extension qualification testing, overseeing procurement, fixture assembly, verification test plan development and execution, and test data review.
           - Performed software fault analysis, debugging, and defect resolution in flight operation systems, demonstrating a systematic troubleshooting mindset across embedded and electromechanical systems.
     skills:
       - label: Programming
-        details: Python, C/C++, TypeScript, SQL, HTML/CSS, Bash
+        details: Python, C/C++, TypeScript, SQL, HTML/CSS, Bash, MATLAB
       - label: Tools/Systems
         details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
       - label: Relevant Areas
