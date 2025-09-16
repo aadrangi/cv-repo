@@ -18,7 +18,7 @@ cv:
         location:
         summary:
         highlights:
-          - "Graduate Operating Systems: Concurrency, distributed systems, resource management."
+          - "Graduate Operating Systems: Multi-threading, distributed systems, resource management."
           - "Computer Vision: Image processing, feature detection, multiview geometry, classification."
           - "AI for Robotics: Localization filters, SLAM and path planning algorithms."
       - institution: Cal Poly San Luis Obispo
@@ -64,7 +64,7 @@ cv:
         location: San Diego, CA
         summary:
         highlights:
-          - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Conducted regular status meetings with Air Force customers to discuss program execution. 
+          - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Provided regular analysis reports on test data to identify trends of interest, and link changes to recorded events. 
           - Performed software fault analysis and debugging in flight operation systems.
     skills:
       - label: Programming
