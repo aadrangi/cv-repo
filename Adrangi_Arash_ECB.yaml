@@ -68,7 +68,7 @@ cv:
           - Performed software fault analysis and debugging in flight operation systems.
     skills:
       - label: Programming
-        details: Python, C/C++, TypeScript, SQL, HTML/CSS, Bash
+        details: Python, C, C++, TypeScript, SQL, HTML/CSS, Bash
       - label: Tools/Systems
         details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
       - label: Relevant Areas
