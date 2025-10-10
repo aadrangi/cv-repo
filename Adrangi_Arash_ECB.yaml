@@ -63,9 +63,7 @@ cv:
         location:
         summary:
         highlights:
-          - "Graduate Operating Systems: Concurrency, distributed systems, resource management."
-          - "Computer Vision: Image processing, feature detection, multiview geometry, classification."
-          - "AI for Robotics: Localization filters, SLAM and path planning algorithms."
+          - "Courses: Graduate Operating Systems, Computer Vision, Artificial Intelligence for Robotics, Introduction to Analytics Modeling, Computing for Analytics, Business Fundamentals for Analytics" 
       - institution: Cal Poly San Luis Obispo
         area: Aerospace Engineering
         degree: BS
