@@ -58,8 +58,8 @@ cv:
         area: Computer Science
         degree: MS
         date:
-        start_date: 2023-09
-        end_date: present
+        start_date:
+        end_date:
         location:
         summary:
         highlights:
@@ -68,8 +68,8 @@ cv:
         area: Aerospace Engineering
         degree: BS
         date:
-        start_date: 2015-06
-        end_date: 2019-06
+        start_date:
+        end_date:
         location:
         summary:
         highlights:
