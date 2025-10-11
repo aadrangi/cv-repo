@@ -6,17 +6,8 @@ cv:
   website:
   social_networks:
     - network: LinkedIn
-      username: Arash Adrangi
+      username: Arash Adrangi # need to add a visual link
   sections:
-    skills:
-      - label: Programming
-        details: Python, C, C++, Java, TypeScript, SQL, HTML/CSS, Bash
-      - label: Tools/Systems
-        details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
-      - label: Relevant Areas
-        details: Computer Systems, Machine Learning, Computer Vision, Signal Processing, Robotics
-      - label: Databases
-        details: SQL Server, Oracle, MySQL, SQLite
     experience:
       - company: Northrop Grumman
         position: "Senior Software Engineer, Automation"
@@ -57,6 +48,15 @@ cv:
         highlights:
           - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Conducted regular status meetings with Air Force customers to discuss program execution. 
           - Performed software fault analysis and debugging in flight operation systems.
+    skills:
+      - label: Programming
+        details: Python, C, C++, Java, TypeScript, SQL, HTML/CSS, Bash
+      - label: Tools/Systems
+        details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
+      - label: Relevant Areas
+        details: Computer Systems, Machine Learning, Computer Vision, Signal Processing, Robotics
+      - label: Databases
+        details: SQL Server, Oracle, MySQL, SQLite
     education:
       - institution: Georgia Institute of Technology
         area: Computer Science
