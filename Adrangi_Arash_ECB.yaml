@@ -48,7 +48,7 @@ cv:
         highlights:
           - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Conducted regular status meetings with Air Force customers to discuss program execution. 
           - Performed software fault analysis and debugging in flight operation systems.
-    skills:
+    skills: # clean up the skills section
       - label: Programming
         details: Python, C, C++, Java, TypeScript, SQL, HTML/CSS, Bash
       - label: Tools/Systems
