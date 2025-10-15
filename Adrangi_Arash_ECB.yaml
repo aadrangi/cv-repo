@@ -26,7 +26,7 @@ cv:
           # quantify money and time saved
           - Overhauled SQL queries for a .NET application with an SQL Server and Oracle Database backend. Fixed critical result mismatch issues resulting in a 11% productivity increase from machinery assemblers. Managed the codebase configuration and distributed work among engineering peers.
           # upper level of budget, how much money did you save the company.
-          - Budgeted proposals for software projects totalling $300,000, spanning process improvement and R&D.
+          - Budgeted proposals for software automation projects with total savings of $150,000 per test campaign.
       - company: Northrop Grumman
         position: Systems Integration and Test Engineer
         date:
