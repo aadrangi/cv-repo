@@ -25,7 +25,7 @@ cv:
           - Spearheaded a front-end development effort for a data processing and structural simulation codebase. Refactored the codebase and slashed required time to process new test data from hours into seconds.
           # quantify money and time saved
           - Overhauled SQL queries for a .NET application with an SQL Server and Oracle Database backend. Fixed critical result mismatch issues resulting in a 11% productivity increase from machinery assemblers. Managed the codebase configuration and distributed work among engineering peers.
-          # upper level of budget, how much money did you save the company.
+          # upper level of budget, how much money did you save the company. error reducts in the balance process save 75k per day (have to redo a whole days worth of testing)
           - Budgeted proposals for software automation projects with total savings of $150,000 per test campaign.
       - company: Northrop Grumman
         position: Systems Integration and Test Engineer
