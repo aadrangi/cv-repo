@@ -78,7 +78,7 @@ cv:
         summary:
         highlights:
 design:
-  theme: ecb_no_degree_dates
+  theme: ECBNDD
   text:
     font_family: Source Sans 3
     font_size: 11pt
