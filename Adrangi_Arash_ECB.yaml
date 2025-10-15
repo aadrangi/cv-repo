@@ -20,11 +20,11 @@ cv:
           # Redesigned output files to contain the minimum required information, and designed a data conversion layer to turn files into standardized objects. This allowed us to cut down on code required for each workflow, while leaving room to quickly build new ones.
           - Redesigned a modeling and simulation codebase from the ground up. Improvements to reliability, data portability and modularity resulted in a 500% hourly reduction in feature development efforts.  
           # percentage for uptime instead of 24/7, four 9 uptime
-          - Lead the development of a multi-process data pipeline to automate hundreds of hours of manual processing while maintaining 90% uptime. Optimized parallel processing, task queuing, and detailed logging. 
+          - Lead the development of a multi-process data pipeline to automate hundreds of hours of manual processing while maintaining 95% uptime. Optimized parallel processing, task queuing, and detailed logging. 
           - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing to ensure data processing reliability. Supported the system with continuous improvement, peer review, and repository management efforts.
           - Spearheaded a front-end development effort for a data processing and structural simulation codebase. Refactored the codebase and slashed required time to process new test data from hours into seconds.
           # quantify money and time saved
-          - Overhauled SQL queries for a .NET application with an SQL Server and Oracle Database backend. Fixed critical result mismatch issues and resulting in a 15% productivity increase from machinery assemblers. Managed the codebase configuration and distributed work among engineering peers.
+          - Overhauled SQL queries for a .NET application with an SQL Server and Oracle Database backend. Fixed critical result mismatch issues resulting in a 11% productivity increase from machinery assemblers. Managed the codebase configuration and distributed work among engineering peers.
           # upper level of budget, how much money did you save the company.
           - Budgeted proposals for software projects totalling $300,000, spanning process improvement and R&D.
       - company: Northrop Grumman
