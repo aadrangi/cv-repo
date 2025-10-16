@@ -20,10 +20,10 @@ cv:
           # Redesigned output files to contain the minimum required information, and designed a data conversion layer to turn files into standardized objects. This allowed us to cut down on code required for each workflow, while leaving room to quickly build new ones.
           - Spearheaded a software automation effort for an acoustic and vibration data test bench. Designed a codebase that incorporated structural calculations and slashed data review time from hours into seconds.
           - Lead the development of a test data pipeline to automate the processing of time series sensor data into tachometer adjusted frequency domain data. Automated hundreds of hours of manual processing while maintaining 97% uptime, and provided visualizations to analysts and Navy customers.
-          - Updated and deployed a software platform that automated the transformation of acoustic/vibration data. Made code updates to incorporate vibration and acoustic criteria, sensor processing requirements, and sensor categorization.
+          - Updated and deployed a software platform that automated the transformation of acoustic/vibration data. Incorporated vibration and acoustic criteria, sensor processing requirements, and sensor categorization.
           - Redesigned a test data automation codebase from the ground up. Improvements to reliability, data portability and modularity resulted in a 500% hourly reduction in feature development efforts.  
           # percentage for uptime instead of 24/7, uptime measured by falling behind on 8 hours worth of data every 2 weeks due to uptime issues. 
-          - Developed a database pipeline and significantly streamlined the integration of frequency domain data into systems simulation code. Implemented comprehensive unit testing to ensure data processing reliability. Supported the system with continuous improvement, peer review, and repository management efforts.
+          - Developed a database pipeline and significantly streamlined the integration of frequency domain data into systems simulation code. Implemented comprehensive unit testing to ensure data processing reliability.
           # quantify money and time saved
           # upper level of budget, how much money did you save the company. error reducts in the balance process save 75k per day (have to redo a whole days worth of testing)
           - Budgeted proposals for software automation projects with total savings of $150,000 per test campaign.
@@ -35,9 +35,9 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Lead Test Engineer for conducting Factory Acceptance Testing on rotating machinery. Guided junior engineers through test execution and provided regular updates to customers.
-          - Integrated sensors into data acquisition systems, performed calibration and troubleshooting of faulty sensors.
-          - Developed real-time filtering and tuning solutions for PID control systems.
+          - Lead Test Engineer for conducting rotating machinery Factory Acceptance Testing. Worked with acoustic engineers to troubleshoot vibration and acoustic criteria violations. Guided junior engineers through test execution and provided regular updates to customers.
+          - Integrated sensors into data acquisition systems, and performed sensor calibration and troubleshooting.
+          - Developed filtering and tuning solutions for PID control systems over a range of operating conditions. 
           - Compiled test data into concise reports. Created test procedures and operational guides.
           - Developed automation scripts for sensor data processing and visualization.
       - company: Northrop Grumman
@@ -56,7 +56,7 @@ cv:
       - label: Software
         details: Python, C, C++, MATLAB, Linux, Bash, SQL, CATIA, Solidworks
       - label: Relevant Areas
-        details: Vibration & Acoustics, Signal Processing, Computer Systems
+        details: Vibration & Acoustics, Signal Processing, Software Automation, Computer Systems
     education:
       - institution: Georgia Institute of Technology
         area: Computer Science
@@ -67,7 +67,6 @@ cv:
         location:
         summary:
         highlights:
-          - "Courses: Graduate Operating Systems, Computer Vision, Artificial Intelligence for Robotics, Introduction to Analytics Modeling, Computing for Analytics, Business Fundamentals for Analytics" 
       - institution: Cal Poly San Luis Obispo
         area: Aerospace Engineering
         degree: BS
