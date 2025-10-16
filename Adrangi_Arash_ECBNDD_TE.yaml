@@ -10,7 +10,7 @@ cv:
   sections:
     experience:
       - company: Northrop Grumman
-        position: "Senior Software Engineer, Automation"
+        position: "Senior Software Engineer, Test"
         date:
         start_date: 2023-11
         end_date: present
@@ -36,7 +36,9 @@ cv:
         summary:
         highlights:
           - Lead Test Engineer for conducting Factory Acceptance Testing on rotating machinery. Guided junior engineers through test execution and provided regular updates to customers.
+          - Integrated sensors into data acquisition systems, performed calibration and troubleshooting of faulty sensors.
           - Developed real-time filtering and tuning solutions for PID control systems.
+          - Compiled test data into concise reports. Created test procedures and operational guides.
           - Developed automation scripts for sensor data processing and visualization.
       - company: Northrop Grumman
         position: Avionics Engineer
