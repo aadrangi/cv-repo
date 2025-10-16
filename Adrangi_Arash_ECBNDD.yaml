@@ -62,8 +62,8 @@ cv:
         area: Computer Science
         degree: MS
         date:
-        start_date: 2023-09 # TAKE THESE OUT TAKE THESE OUT
-        end_date: present
+        start_date: # TAKE THESE OUT TAKE THESE OUT
+        end_date: 
         location:
         summary:
         highlights:
@@ -72,8 +72,8 @@ cv:
         area: Aerospace Engineering
         degree: BS
         date:
-        start_date: 2015-06 # TAKE THESE OUT TAKE THESE OUT
-        end_date: 2019-06
+        start_date:  # TAKE THESE OUT TAKE THESE OUT
+        end_date: 
         location:
         summary:
         highlights:
