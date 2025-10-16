@@ -51,14 +51,12 @@ cv:
           - Lead Responsible Engineer for actuator life extension qualification testing. Lead the effort through procurement, fixture assembly, test execution, and data review. Conducted regular status meetings with Air Force customers to discuss program execution. 
           - Responsible Engineer for flight control system actuators and the air data system. Served as Principal Investigator for electrical and software faults that occurred during flight operations. Worked with Mechanical, Electrical, and Software Engineers to approve configuration changes to both systems.
     skills: # clean up the skills section
-      - label: Programming
-        details: Python, C, C++, Java, TypeScript, SQL, HTML/CSS, Bash
-      - label: Tools/Systems
-        details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
+      - label: Software
+        details: Python, C, C++, MATLAB, SQL, Linux, Bash, CATIA, Solidworks
+      - label: Hardware
+        details: Data Acquisition Systems, Bench Electronics (Oscilloscope, Power Supply, Function Generator)
       - label: Relevant Areas
-        details: Computer Systems, Machine Learning, Computer Vision, Signal Processing, Robotics
-      - label: Databases
-        details: SQL Server, Oracle, MySQL, SQLite
+        details: Vibration & Acoustics, Signal Processing, Computer Systems
     education:
       - institution: Georgia Institute of Technology
         area: Computer Science
