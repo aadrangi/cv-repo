@@ -53,11 +53,11 @@ cv:
       - label: Programming
         details: Python, C, C++, C#, Java, TypeScript, SQL, HTML/CSS, Bash
       - label: Tools/Systems
-        details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
+        details: Git, Docker, Linux, SQL Server, Oracle, MySQL 
+      - label: Libraries/Frameworks
+        details: OpenCV, Pandas, Numpy, SQL Alchemy, .NET
       - label: Relevant Areas
         details: Computer Systems, Machine Learning, Computer Vision, Signal Processing, Robotics
-      - label: Databases
-        details: SQL Server, Oracle, MySQL, SQLite
     education:
       - institution: Georgia Institute of Technology
         area: Computer Science
