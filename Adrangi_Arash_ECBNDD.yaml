@@ -65,10 +65,10 @@ cv:
         end_date: 
         location:
         summary:
-        highlights:
-          - "Courses: Graduate Operating Systems, High Performance Computer Architecture, Computer Vision, Artificial Intelligence for Robotics, Video Game Design, Introduction to Analytics Modeling, Business Fundamentals for Analytics" 
+        # highlights:
+        #   - "Courses: Graduate Operating Systems, High Performance Computer Architecture, Computer Vision, Artificial Intelligence for Robotics, Video Game Design, Introduction to Analytics Modeling, Business Fundamentals for Analytics" 
       - institution: Cal Poly San Luis Obispo
-        area: Aerospace Engineering
+        area: Aerospace Engineering (Class of 2019)
         degree: BS
         date:
         start_date:  # TAKE THESE OUT TAKE THESE OUT
