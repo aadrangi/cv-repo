@@ -17,16 +17,15 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
+          - Served as Agile scrum master for software process improvement initiatives, facilitating daily standups, managing the tasking backlog, and collaborating with developers to define and break down work.
+          - Responsible software developer  for Factory Acceptance Test (FAT) automation, owning architecture decisions, feature delivery, and deployment. 
           # Redesigned output files to contain the minimum required information, and designed a data conversion layer to turn files into standardized objects. This allowed us to cut down on code required for each workflow, while leaving room to quickly build new ones.
-          - Lead the development of a multi-process data pipeline to automate hundreds of hours of manual processing while maintaining 97% uptime. Supported system with triage and maintenance efforts. Optimized concurrent processing, task scheduling, and detailed logging.
-          - Redesigned a modeling and simulation codebase from the ground up. Improvements to reliability, modularity, and data portability resulted in a 500% hourly reduction in feature development efforts.  
+          - Built and maintained a multi-process data pipeline that automated hundreds of hours of manual work, achieving 97% uptime through ongoing triage, optimization, and task scheduling improvements.
+          - Architected a redesign of a legacy software automation codebase, improving reliability, modularity, and data portability to significantly cut feature development time.  
           # percentage for uptime instead of 24/7, uptime measured by falling behind on 8 hours worth of data every 2 weeks due to uptime issues.
-          - Developed a database ETL pipeline and significantly streamlined the integration of test data into systems simulation code. Implemented comprehensive unit testing to ensure data processing reliability. Supported the system with continuous improvement, peer review, and repository management efforts.
-          - Spearheaded a front-end development effort for a data processing and structural simulation codebase. Refactored the codebase and slashed required time to process new test data from hours into seconds.
+          - Designed and implemented a MySQL ETL pipeline, including schema design and a full data import/query layer. Streamlined test data integration into structural engineering calculation and design automation tools, with full unit test coverage and ongoing maintenance.
           # quantify money and time saved
-          - Overhauled SQL queries for a .NET application with an SQL Server and Oracle Database backend. Fixed critical result mismatch issues resulting in a 11% productivity increase from machinery assemblers. Managed the codebase configuration and distributed work among engineering peers.
-          # upper level of budget, how much money did you save the company. error reducts in the balance process save 75k per day (have to redo a whole days worth of testing)
-          - Budgeted proposals for software automation projects with total savings of $150,000 per test campaign.
+          - Debugged and refactored SQL queries for a .NET application backed by SQL Server and Oracle Database, resolving result mismatch issues and driving an 11% productivity increase among machinery assemblers.      
       - company: Northrop Grumman
         position: Systems Integration and Test Engineer
         date:
@@ -35,7 +34,7 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Lead Test Engineer for conducting Factory Acceptance Testing on rotating machinery. Guided junior engineers through test execution and provided regular updates to customers.
+          - Lead Test Engineer for Factory Acceptance Testing on rotating machinery. Guided junior engineers through test execution and provided regular updates to customers.
           - Developed real-time filtering and tuning solutions for PID control systems.
           - Developed automation scripts for sensor data processing and visualization.
       - company: Northrop Grumman
@@ -50,16 +49,16 @@ cv:
           - Performed software fault analysis and debugging in flight operation systems.
     skills: # clean up the skills section
       - label: Programming
-        details: Python, C, C++, Java, TypeScript, SQL, Bash
+        details: Python, C, C#, C++, Java, TypeScript, SQL, Bash
       - label: Tools/Systems
-        details: Git, Docker, Linux, OpenCV, Pandas, Numpy, SQL Alchemy, .NET
+        details: GitHub, GitLab, Docker, Linux, SQL Server, Oracle Database, MySQL 
       - label: Relevant Areas
-        details: Computer Systems, Software Design, Data Engineering, Machine Learning
-      - label: Databases
-        details: SQL Server, Oracle, MySQL, SQLite
+        details: Computer Systems, Software Design, Software Automation, Data Engineering
+      - label: Libraries/Frameworks
+        details: OpenCV, Pandas, Numpy, SQL Alchemy, .NET
     education:
       - institution: Georgia Institute of Technology
-        area: Computer Science
+        area: Computer Science (Class of 2026)
         degree: MS
         date:
         start_date: # TAKE THESE OUT TAKE THESE OUT
