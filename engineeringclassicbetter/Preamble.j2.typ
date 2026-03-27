@@ -97,7 +97,7 @@
 #let hyphenate
 #if design-text-alignment == "justified" {
   justify = true
-  hyphenate = true
+  hyphenate = false
 } else if design-text-alignment == "left" {
   justify = false
   hyphenate = false
