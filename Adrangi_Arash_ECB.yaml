@@ -17,8 +17,8 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
+          - Responsible software developer for Factory Acceptance Test (FAT) automation, owning architecture decisions, feature delivery, and deployment. 
           - Served as Agile scrum master for software process improvement initiatives, facilitating daily standups, managing the tasking backlog, and collaborating with developers to define and break down work.
-          - Responsible software developer  for Factory Acceptance Test (FAT) automation, owning architecture decisions, feature delivery, and deployment. 
           # Redesigned output files to contain the minimum required information, and designed a data conversion layer to turn files into standardized objects. This allowed us to cut down on code required for each workflow, while leaving room to quickly build new ones.
           - Built and maintained a multi-process data pipeline that automated hundreds of hours of manual work, achieving 97% uptime through ongoing triage, optimization, and task scheduling improvements.
           - Architected a redesign of a legacy software automation codebase, improving reliability, modularity, and data portability to significantly cut feature development time.  
