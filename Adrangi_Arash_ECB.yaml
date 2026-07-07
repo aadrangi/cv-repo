@@ -17,11 +17,11 @@ cv:
         location: Sunnyvale, CA
         summary:
         highlights:
-          - Responsible software developer for Factory Acceptance Test (FAT) automation, owning architecture decisions, feature delivery, and deployment. 
+          - Responsible software developer for Factory Acceptance Test (FAT) automation, owning architecture decisions, feature delivery, deployment, and testing. 
           - Served as Agile scrum master for software process improvement initiatives, facilitating daily standups, managing the tasking backlog, and collaborating with developers to define and break down work.
           # Redesigned output files to contain the minimum required information, and designed a data conversion layer to turn files into standardized objects. This allowed us to cut down on code required for each workflow, while leaving room to quickly build new ones.
+          - Rearchitected a full-stack data acquisition and analytics codebase, integrating CI/CD and automated testing to reduce deployment time by 90%. 
           - Built and maintained a multi-process data pipeline that automated hundreds of hours of manual work, achieving 97% uptime through ongoing triage, optimization, and task scheduling improvements.
-          - Architected a redesign of a legacy software automation codebase, improving reliability, modularity, and data portability to significantly cut feature development time.  
           # percentage for uptime instead of 24/7, uptime measured by falling behind on 8 hours worth of data every 2 weeks due to uptime issues.
           - Designed and implemented a MySQL ETL pipeline, including schema design and a full data import/query layer. Streamlined test data integration into structural engineering calculation and design automation tools, with full unit test coverage and ongoing maintenance.
           # quantify money and time saved
@@ -58,7 +58,7 @@ cv:
         details: OpenCV, Pandas, Numpy, SQL Alchemy, .NET
     education:
       - institution: Georgia Institute of Technology
-        area: Computer Science
+        area: Computer Science - Computer Graphics Concentration
         degree: MS
         date:
         start_date: 2023-09 # TAKE THESE OUT TAKE THESE OUT
@@ -66,7 +66,6 @@ cv:
         location:
         summary:
         highlights:
-          - "Courses: Graduate Operating Systems, Computer Vision, Artificial Intelligence for Robotics, High Performance Computer Architecture, Video Game Design, Introduction to Analytics Modeling, Business Fundamentals for Analytics" 
       - institution: Cal Poly San Luis Obispo
         area: Aerospace Engineering
         degree: BS
